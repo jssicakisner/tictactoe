@@ -1,6 +1,6 @@
 # ATM Machine Exercise
 
-<img src="./atm.png" />
+<img src="./image.png" />
 
 ## Description
 
